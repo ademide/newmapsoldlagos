@@ -1,7 +1,7 @@
 ///
-/// Story by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+/// Relativity by Pixelarity
+/// pixelarity.com | hello@pixelarity.com
+/// License: pixelarity.com/license
 ///
 
 /* Basic */
@@ -20,11 +20,12 @@
 		@include breakpoint(xsmall) {
 			html, body {
 				min-width: 320px;
+				overflow-x: hidden;
 			}
 		}
 
 	body {
-		background: _palette(bg);
+		background-color: _palette(bg-alt) !important;
 
 		// Prevents animation/transition "flicker" on page load.
 		// Automatically added/removed by js/main.js.
