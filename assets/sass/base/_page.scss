@@ -1,5 +1,5 @@
 ///
-/// Relativity by Pixelarity
+/// Story by Pixelarity
 /// pixelarity.com | hello@pixelarity.com
 /// License: pixelarity.com/license
 ///
@@ -20,12 +20,11 @@
 		@include breakpoint(xsmall) {
 			html, body {
 				min-width: 320px;
-				overflow-x: hidden;
 			}
 		}
 
 	body {
-		background-color: _palette(bg-alt) !important;
+		background: _palette(bg);
 
 		// Prevents animation/transition "flicker" on page load.
 		// Automatically added/removed by js/main.js.
