@@ -1,2 +1,2 @@
 # newmapsoldlagos
-This is a research site about the history of Lagos in the nineteenth century
+This is a research site about the history of Lagos, Nigeria in the nineteenth and twentieth century.
